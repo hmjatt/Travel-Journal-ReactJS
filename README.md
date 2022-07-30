@@ -8,13 +8,19 @@ Creating a **`Travel Journal`** using `ReactJS`
 <!-- ![This is an image]()
 ![This is an image]() -->
 
+<hr>
+
 ### About ℹ️
 
 A **`Travel Journal`**, created to practice `ReactJS`. It includes *descriptions* of places that I have visited along with some future adventures. *Journal Entries* contain *Title*, *Location*, *Google Maps Link*, *Start Date*, *End Date*, *Description* and *Image*.*Journal Entries* are created dynamically using the *.map()* method and *props* on the `data.js` file, which is an _array of objects_. While creating this project I learned about `React Props`, `Creating Components from an Array`, using `Mapping Components`, etc. After creating the project, it was deployed to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :ocean:
 
+<hr>
+
 ### Technologies Used 💻
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> &emsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> &emsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> &emsp; <a href="https://www.w3schools.com/js/js_es6.asp" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/792f7fce1ff8bfac6d0524a21b69161cdc6080a3c4e39979f21d5f8489d6fdd3/68747470733a2f2f692e626c6f67732e65732f3534356366382f6573362d6c6f676f2f6f726967696e616c2e706e67" alt="ES6" width="50" height="50"/> </a> &emsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactJS" width="50" height="50"/> </a> &emsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="figma" width="70" height="50"/> </a>
+
+<hr>
 
 ## Includes the following features/components ⚙️
 
@@ -24,6 +30,8 @@ A **`Travel Journal`**, created to practice `ReactJS`. It includes *descriptions
     - create-react-app
     - Figma
     - github-pages
+
+<hr>
 
 ## Usage 🤓
 
@@ -41,6 +49,7 @@ npm install
 npm start
 
 ```
+<hr>
 
 ## Steps I followed to complete this project 🪜
 
@@ -130,6 +139,8 @@ at App
 
 <!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/#github-pages)) to push project to **GitHub Pages** 🎆🎆🎆 -->
 
+<hr>
+
 ## Links to content that helped me with this project 🔗
 
 1. The Odin Project
@@ -166,6 +177,8 @@ at App
 
 7. MDN
     - [Spread in Object Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals)
+
+<hr>
 
 #### Quote ✒️
 <!-- 
