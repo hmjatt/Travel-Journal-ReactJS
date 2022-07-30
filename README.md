@@ -181,8 +181,8 @@ at App
 <hr>
 
 #### Quote ✒️
-<!-- 
-    “A ship in port is safe, but that’s not what ships are built for.”
-    — Grace Hopper
 
-> :anchor: :desktop_computer: :motorway: -->
+    “The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.”
+    — Ada Lovelace
+
+<!-- > :anchor: :desktop_computer: :motorway: -->
