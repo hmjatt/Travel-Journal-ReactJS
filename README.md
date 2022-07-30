@@ -132,14 +132,14 @@ npm start
 
 ## Links to content that helped me with this project 🔗
 
-<!-- 1. The Odin Project
+1. The Odin Project
 
     - [React Introduction](https://www.theodinproject.com/lessons/node-path-javascript-react-introduction)
     - [React State & Props](https://www.theodinproject.com/lessons/node-path-javascript-state-and-props)
 
 2. Figma Design
 
-    - [Digital Business Card](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A1)
+    <!-- - [Digital Business Card](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1) -->
 
 3. Scrimba
 
@@ -165,7 +165,7 @@ npm start
     - [React Props Cheatsheet(Article by Reed Barger)](https://www.freecodecamp.org/news/react-props-cheatsheet/)
 
 7. MDN
-    - [Spread in Object Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals) -->
+    - [Spread in Object Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals)
 
 #### Quote ✒️
 <!-- 
