@@ -12,7 +12,7 @@ Creating a **`Travel Journal`** using `ReactJS`
 
 ### About ℹ️
 
-A **`Travel Journal`**, created to practice `ReactJS`. It includes *descriptions* of places that I have visited along with some future adventures. *Journal Entries* contain *Title*, *Location*, *Google Maps Link*, *Start Date*, *End Date*, *Description* and *Image*.*Journal Entries* are created dynamically using the *.map()* method and *props* on the `data.js` file, which is an _array of objects_. While creating this project I learned about `React Props`, `Creating Components from an Array`, using `Mapping Components`, etc. After creating the project, it was deployed to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :ocean:
+A **`Travel Journal`**, created to practice `ReactJS`. It includes *descriptions* of places that I have visited along with some future adventures. *Journal Entries* contain *Title*, *Location*, *Google Maps Link*, *Start Date*, *End Date*, *Description* and *Image*.*Journal Entries* are created dynamically using the *.map()* method and *props* on the `data.js` file, which is an _array of objects_. While creating this project I learned about `React Props`, `Creating Components from an Array`, using `Mapping Components`, etc. After creating the project, it was deployed to `github-pages` :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) 🌉
 
 <hr>
 
@@ -185,4 +185,4 @@ at App
     “The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.”
     — Ada Lovelace
 
-<!-- > :anchor: :desktop_computer: :motorway: -->
+> 🏯 🗻 ⛩️
