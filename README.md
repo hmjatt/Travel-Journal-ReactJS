@@ -139,7 +139,7 @@ npm start
 
 2. Figma Design
 
-    <!-- - [Digital Business Card](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1) -->
+    - [Travel Journal](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1)
 
 3. Scrimba
 
