@@ -55,8 +55,8 @@ npm start
 
 ### 1. Initialize Project 🎍
 
-- [ ] Initailize the project using `npx create-react-app travel-journal` which will create a complete **React App** pre-configured and pre-installed with all the dependencies.
-- [ ] Import **` `** font from google fonts.
+- [x] Initailize the project using `npx create-react-app travel-journal` which will create a complete **React App** pre-configured and pre-installed with all the dependencies.
+- [x] Import **`Inter`** font from google fonts and apply it to **`App`** component.
 
 ### 2. Organize components 🗄️
 
