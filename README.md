@@ -62,11 +62,11 @@ npm start
 
 - [x] Create a `components` folder inside `src` directory.
 - [x] Create future **custom components** inside `components` folder.
-- [x] Create an `images` folder inside `src` directory and move images/logos inside it.
+- [x] Create an `images` folder inside `src` directory and add images/logos inside it.
 
 ### 3. Clean directory🧹
 
-<!-- - [x] Delete **unnecessary** files from directory and format code with `Prettier`. -->
+- [ ] Delete **unnecessary** files and code from directory.
 
 ### 4. Navbar Component 🧩
 
