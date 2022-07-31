@@ -66,7 +66,7 @@ npm start
 
 ### 3. Clean directory🧹
 
-- [ ] Delete **unnecessary** files and code from directory.
+- [x] Delete **unnecessary** files and code from directory.
 
 ### 4. Navbar Component 🧩
 
