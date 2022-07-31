@@ -70,11 +70,11 @@ npm start
 
 ### 4. Navbar Component 🧩
 
-<!-- - [x] Create **`Navbar`** component and basic JSX elements for it.
-- [x] Add appropriate `className`s to elements in `Navbar` component.
-- [x] Add `airbnb.svg` image to `Navbar` component.
-- [x] Import **Navbar** component inside `App` component.
-- [x] Style `Navbar` component. -->
+- [ ] Create **`Navbar`** component and basic JSX elements for it.
+- [ ] Add appropriate `className`s to elements in `Navbar` component.
+- [ ] Add `globe.png` image to `Navbar` component.
+- [ ] Import **Navbar** component inside `App` component.
+- [ ] Style `Navbar` component.
 
 ### 5. Card Component 🧩
 
