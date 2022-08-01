@@ -49,7 +49,7 @@ h1 {
 }
 
 .card:not(:last-child) {
-	box-shadow: 0px 45px 4px -45px #dddddd;
+	box-shadow: 0px 45px 4px -45px #cacaca;
 }
 
 .card-image-div {
@@ -57,7 +57,7 @@ h1 {
 }
 
 .card-image {
-	width: 15vh;
+	width: 20vh;
 	border-radius: 9px;
 	margin-bottom: 9px;
 }
@@ -88,7 +88,7 @@ a {
 .card-title {
 	font-size: 2em;
 	font-weight: 700;
-	margin-top: 0.2em;
+	margin-top: 0.3em;
 }
 
 .card-date {
@@ -124,3 +124,24 @@ footer a:hover {
 }
 /* Footer Component */
 
+@media only screen and (max-width: 600px) {
+	.card {
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+		padding: 3em 2em;
+	}
+
+	.card-image-div {
+		margin-right: 0;
+		margin-bottom: 1em;
+	}
+
+	.card-image {
+		width: 55vw;
+	}
+
+	.card-title {
+		margin-top: 0.8em;
+	}
+}

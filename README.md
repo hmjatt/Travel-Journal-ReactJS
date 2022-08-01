@@ -108,9 +108,9 @@ at App
 
 ### 8. Make App Responsive 🎨
 
-- [x] Add _flexbox_ style to `.cards-list` *div*.
-- [ ] Add a *media query* for `max-width: 800px`
-- [ ] App is responsive upto this point. :smiley:
+- [x] Add _flexbox_ style to `.cards-list` *div* and other *necessary styles*.
+- [x] Add a *media query* for `max-width: 600px`.
+- [x] App is responsive upto this point. :smiley:
 
 
 
