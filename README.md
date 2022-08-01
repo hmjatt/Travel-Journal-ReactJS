@@ -178,6 +178,16 @@ at App
 7. MDN
     - [Spread in Object Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals)
 
+8. Images
+	- [Jellyfish](https://unsplash.com/photos/GVe30cQ8CWU)
+	- [Vermillion Lakes Viewpoint, Banff, Canada](https://unsplash.com/photos/Tna5zIghPPI)
+	- [Capilano Suspension Bridge, West Vancouver, Canada](https://unsplash.com/photos/IIN1k30xGBw)
+	- [Mount Fuji](https://unsplash.com/photos/GhvpEtG5HMs)
+	- [Major's Hill Park, Ottawa, Ontario](https://unsplash.com/photos/-NB5QfF_lxU)
+	- [Jasper](https://unsplash.com/photos/P3v1pPpUzLs)
+	- [Sydney Opera House](https://unsplash.com/photos/TkEBaFrYJ_g)
+
+
 <hr>
 
 #### Quote ✒️
