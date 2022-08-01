@@ -78,10 +78,10 @@ npm start
 
 ### 5. Card Component 🧩
 
-- [ ] Create **`Card`** component and basic JSX elements for it.
-- [ ] Add appropriate `className`s to elements in `Card` component.
-- [ ] Add *photos* to **`Card`** component.
-- [ ] Import **`Card`** component inside **`App`** component.
+- [x] Create **`Card`** component and basic JSX elements for it.
+- [x] Add appropriate `className`s to elements in `Card` component.
+- [x] Add *photos* to **`Card`** component.
+- [x] Import **`Card`** component inside **`App`** component.
 - [ ] Add basic style to **`Card`** component.
 
 ### 6. Footer Component 🧩
