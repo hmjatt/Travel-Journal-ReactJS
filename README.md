@@ -90,11 +90,8 @@ npm start
 - [x] Import **`Footer`** component inside `App` component.
 - [x] Style `Card` component. -->
 
-### 7. Pass Props To Card Component🎴
 
-<!-- - [x] Hardcode the _props_ for **`Card`** component and pass _props_ to **`Card`**. -->
-
-### 8. Map Experiences Data Into Components 🗺️
+### 7. Map Experiences Data Into Components 🗺️
 
 <!-- - [x] Create a file called `data.js`, which contains an _array of objects_. It reperesents the data that will be used inside **`Card`** component.
 - [x] Import _images_ for **`Card`** component.
@@ -109,33 +106,25 @@ at App
 
 ``` -->
 
-### 9. Make App Responsive 🎨
+### 8. Make App Responsive 🎨
 
 <!-- - [x] Add _flexbox_ style to `Card` component.
 - [x] App is responsive upto this point. :smiley: -->
 
-### 10. Sold Out/Location Badge 〰️
 
-<!-- - [x] Add a `Sold Out` badge element for **`Card`** component and style it.
-- [x] Use _condititonal rendering_ in **`Card`** component to render `SOLD OUT` badge only if `openSpots: 0` and if `location: "Online"` render `ONLINE` instead. Comapare against _keys_ inside _array of objects_ in `data.js`. -->
 
-### 11. Pass object as props(Option #1) 📟
-<!-- 
-- [x] Pass entire object when we _.map_ over _array of objects_ in **`App`** component using _item_ as _key_ and _array of objects_ as its _value_.
-- [x] Access the object that is passed as prop in **`Card`** component, where _item_ is _key_ and _array of objects_ are its _values_. -->
-
-### 12. Spread object as props(Option #2) 📼
+### 9. Spread object as props(Option #2) 📼
 
 <!-- - [x] We can make use of `{...item}` [Spread in Object Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals), which takes properties of our _object_ and create a separate prop for each _key_ in _object_. _Value_ of _props_ can be accessed using `props.key` syntax, where _key_ is an actual _key_ in `data.js`. This is an alternate to instead of creating our own _prop_ called _item_ to which we pass our entire _object_, **`Pass object as props(Option #1)`** is used in this project. -->
 
-### 13. Prepare for Deployment 🪢
+### 10. Prepare for Deployment 🪢
 
 <!-- - [x] Add More than 3 items inside **`Card`** component by updating `data.js`.
 - [x] Delete **unnecessary** files from directory and format code with `Prettier`.
 - [x] Test for _Responsiveness_ and make changes if need be.
 - [x] Add links to `Live Preview` and _screenshots_. -->
 
-### 14. Deploy 📤
+### 11. Deploy 📤
 
 <!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/#github-pages)) to push project to **GitHub Pages** 🎆🎆🎆 -->
 
