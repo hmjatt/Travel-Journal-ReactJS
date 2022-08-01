@@ -108,7 +108,8 @@ at App
 
 ### 8. Make App Responsive 🎨
 
-- [ ] Add _flexbox_ style to `Card` component.
+- [x] Add _flexbox_ style to `.cards-list` *div*.
+- [ ] Add a *media query* for `max-width: 800px`
 - [ ] App is responsive upto this point. :smiley:
 
 

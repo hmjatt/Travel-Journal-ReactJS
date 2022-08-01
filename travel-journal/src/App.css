@@ -36,6 +36,7 @@ h1 {
 /* Card Component */
 .cards-list {
 	display: flex;
+	flex-direction: column;
 	box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
 	background-color: #fffbf4;
 	border-radius: 10px;
@@ -104,6 +105,7 @@ footer {
 	background-color: #2F4858;
 	border-radius: 10px;
 	margin-top: 1em;
+	padding: 0.5em;
 	box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
 }
 
@@ -121,3 +123,4 @@ footer a:hover {
 	filter: opacity(40%);
 }
 /* Footer Component */
+
