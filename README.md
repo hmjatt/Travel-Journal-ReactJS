@@ -122,10 +122,10 @@ at App
 
 ### 11. Prepare for Deployment 🪢
 
-<!-- - [x] Add More than 3 items inside **`Card`** component by updating `data.js`.
-- [x] Delete **unnecessary** files from directory and format code with `Prettier`.
-- [x] Test for _Responsiveness_ and make changes if need be.
-- [x] Add links to `Live Preview` and _screenshots_. -->
+- [ ] Create total of 7 unique **`Card`** components(*journal entries*) inside **`.cards-list`** by updating `data.js`.
+- [ ] Delete **unnecessary** files from directory and format code with `Prettier`.
+- [ ] Test for _Responsiveness_ and make changes if need be.
+- [ ] Add links to `Live Preview` and _screenshots_.
 
 ### 12. Deploy 📤
 
