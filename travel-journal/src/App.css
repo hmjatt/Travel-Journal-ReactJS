@@ -12,7 +12,8 @@ nav {
 	display: flex;
 	justify-content: center;
 	padding: 1.7em 2.4em;
-	box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+	margin-bottom: 1em;
+	box-shadow: 0px 2.98256px 7.4564px rgba(255, 82, 82, 0.397);
 	background-color: #F55A5A;
 }
 
@@ -31,3 +32,66 @@ h1 {
 }
 
 /* Navbar Component */
+
+/* Card Component */
+.cards-list {
+	display: flex;
+	box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+	background-color: #fffbf4;
+	border-radius: 10px;
+}
+
+.card {
+	color: #2B283A;
+	display: flex;
+	padding: 3em;
+}
+
+.card:not(:last-child) {
+	box-shadow: 0px 45px 4px -45px #dddddd;
+}
+
+.card-image-div {
+	margin-right: 3em;
+}
+
+.card-image {
+	width: 15vh;
+	border-radius: 9px;
+	margin-bottom: 9px;
+}
+
+.card-text-div {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.card-pin {
+	height: 0.8em;
+}
+
+.location {
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	padding-left: 0.4em;
+	padding-right: 1em;
+}
+
+a {
+	text-decoration: underline;
+	color: #918E9B;
+	text-underline-offset: 2px;
+}
+
+.card-title {
+	font-size: 2em;
+	font-weight: 700;
+	margin-top: 0.2em;
+}
+
+.card-date {
+	font-weight: 700;
+	font-size: 0.85em;
+}
+/* Card Component */

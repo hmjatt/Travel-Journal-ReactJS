@@ -6,7 +6,8 @@ function App() {
     return (
         <div className="App">
             <Navbar />
-			<Card />
+			<section className="cards-list"><Card /></section>
+			
         </div>
     );
 }

@@ -82,7 +82,7 @@ npm start
 - [x] Add appropriate `className`s to elements in `Card` component.
 - [x] Add *photos* to **`Card`** component.
 - [x] Import **`Card`** component inside **`App`** component.
-- [ ] Add basic style to **`Card`** component.
+- [x] Add basic style to **`Card`** component.
 
 ### 6. Footer Component 🧩
 
