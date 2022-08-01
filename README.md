@@ -93,10 +93,10 @@ npm start
 
 ### 7. Map Experiences Data Into Components 🗺️
 
-<!-- - [x] Create a file called `data.js`, which contains an _array of objects_. It reperesents the data that will be used inside **`Card`** component.
-- [x] Import _images_ for **`Card`** component.
-- [x] Use _.map_ to iterate over _array of objects_ inside `data.js` to create **`Card`** components.
-- [x] When we _.map_ over _array of objects_ in **`App`** component, Add _key prop 🗝️ (`key={item.id}`)_ when passing _props_ to **`Card`** components. This will get rid of this warning :
+- [ ] Create a file called `data.js`, which contains an _array of objects_. It reperesents the data that will be used inside **`Card`** component.
+- [ ] Import _images_ for **`Card`** component.
+- [ ] Use _.map_ to iterate over _array of objects_ inside `data.js` to create **`Card`** components.
+- [ ] When we _.map_ over _array of objects_ in **`App`** component, Add _key prop 🗝️ (`key={item.id}`)_ when passing _props_ to **`Card`** components. This will get rid of this warning :
 
 ```
 ⚠️ react_devtools_backend.js:4026 Warning: Each child in a list should have a unique "key" prop.
@@ -104,7 +104,7 @@ Check the render method of `App`. See https://reactjs.org/link/warning-keys for 
 at Card (http://localhost:3000/main.5c1f9e47e1f13a06e783.hot-update.js:27:18)
 at App
 
-``` -->
+```
 
 ### 8. Make App Responsive 🎨
 
