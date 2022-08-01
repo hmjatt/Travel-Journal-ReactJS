@@ -1,5 +1,6 @@
 const data = [
     {
+		id: 1,
         title: "Mount Fuji",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
