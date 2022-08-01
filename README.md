@@ -90,7 +90,6 @@ npm start
 - [x] Import **`Footer`** component inside `App` component.
 - [x] Style **`Footer`** component.
 
-
 ### 7. Map Experiences Data Into Components 🗺️
 
 - [x] Create a file called `data.js`, which contains an _array of objects_. It represents the data that will be used inside **`Card`** component.
@@ -112,20 +111,23 @@ at App
 - [x] Add a *media query* for `max-width: 600px`.
 - [x] App is responsive upto this point. :smiley:
 
+### 9. Pass object as props(Option #1) 📟
 
+- [ ] Pass entire object when we _.map_ over _array of objects_ in **`App`** component using _item_ as _key_ and _array of objects_ as its _value_.
+- [ ] Access the object that is passed as prop in **`Card`** component, where _item_ is _key_ and _array of objects_ are its _values_.
 
-### 9. Spread object as props(Option #2) 📼
+### 10. Spread object as props(Option #2) 📼
 
-<!-- - [x] We can make use of `{...item}` [Spread in Object Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals), which takes properties of our _object_ and create a separate prop for each _key_ in _object_. _Value_ of _props_ can be accessed using `props.key` syntax, where _key_ is an actual _key_ in `data.js`. This is an alternate to instead of creating our own _prop_ called _item_ to which we pass our entire _object_, **`Pass object as props(Option #1)`** is used in this project. -->
+- [ ] We can make use of `{...item}` [Spread in Object Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals), which takes properties of our _object_ and create a separate prop for each _key_ in _object_. _Value_ of _props_ can be accessed using `props.key` syntax, where _key_ is an actual _key_ in `data.js`. This is an alternate to instead of creating our own _prop_ called _item_ to which we pass our entire _object_.
 
-### 10. Prepare for Deployment 🪢
+### 11. Prepare for Deployment 🪢
 
 <!-- - [x] Add More than 3 items inside **`Card`** component by updating `data.js`.
 - [x] Delete **unnecessary** files from directory and format code with `Prettier`.
 - [x] Test for _Responsiveness_ and make changes if need be.
 - [x] Add links to `Live Preview` and _screenshots_. -->
 
-### 11. Deploy 📤
+### 12. Deploy 📤
 
 <!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/#github-pages)) to push project to **GitHub Pages** 🎆🎆🎆 -->
 
