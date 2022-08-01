@@ -95,7 +95,7 @@ npm start
 
 - [x] Create a file called `data.js`, which contains an _array of objects_. It represents the data that will be used inside **`Card`** component.
 - [x] Import _images_ for **`Card`** component.
-- [ ] Use _.map_ to iterate over _array of objects_ inside `data.js` to create **`Card`** components.
+- [x] Use _.map_ to iterate over _array of objects_ inside `data.js` to create **`Card`** components.
 - [ ] When we _.map_ over _array of objects_ in **`App`** component, Add _key prop 🗝️ (`key={item.id}`)_ when passing _props_ to **`Card`** components. This will get rid of this warning :
 
 ```
