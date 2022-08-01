@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 import Card from "./components/Card";
+import Footer from "./components/Footer";
 import "./App.css";
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
         <div className="App">
             <Navbar />
 			<section className="cards-list"><Card /></section>
-			
+			<Footer />
         </div>
     );
 }
