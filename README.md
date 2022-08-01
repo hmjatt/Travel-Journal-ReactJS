@@ -108,8 +108,8 @@ at App
 
 ### 8. Make App Responsive 🎨
 
-<!-- - [x] Add _flexbox_ style to `Card` component.
-- [x] App is responsive upto this point. :smiley: -->
+- [ ] Add _flexbox_ style to `Card` component.
+- [ ] App is responsive upto this point. :smiley:
 
 
 
