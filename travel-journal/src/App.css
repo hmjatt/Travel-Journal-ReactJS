@@ -1,4 +1,33 @@
 .App {
-  text-align: center;
   font-family: 'Inter', sans-serif;
+  max-width: 1200px;
+  width: 95vw;
+  margin: 2% auto;
+  
 }
+
+/* Navbar Component */
+nav {
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	padding: 1.7em 2.4em;
+	box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+	background-color: #F55A5A;
+}
+
+h1 {
+	color: white;
+	margin: 0;
+	font-weight: 400;
+	font-size: 1.2em;
+	letter-spacing: -0.015em;
+	padding: 0.18em;
+}
+
+.nav-logo {
+	height: 1.8em;
+	padding: 0 1.5em;
+}
+
+/* Navbar Component */

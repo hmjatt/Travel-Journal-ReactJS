@@ -73,8 +73,8 @@ npm start
 - [x] Create **`Navbar`** component and basic JSX elements for it.
 - [x] Add appropriate `className`s to elements in `Navbar` component.
 - [x] Add `globe.png` image to `Navbar` component.
-- [x] Import **Navbar** component inside `App` component.
-- [ ] Style `Navbar` component.
+- [x] Import **`Navbar`** component inside `App` component.
+- [x] Style **`Navbar`** and **`App`** component .
 
 ### 5. Card Component 🧩
 
@@ -87,7 +87,7 @@ npm start
 ### 6. Footer Component 🧩
 
 <!-- - [x] Create **`Footer`** component and basic JSX elements for it.
-- [x] Import **Footer** component inside `App` component.
+- [x] Import **`Footer`** component inside `App` component.
 - [x] Style `Card` component. -->
 
 ### 7. Pass Props To Card Component🎴
