@@ -187,4 +187,4 @@ at App
     “The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.”
     — Ada Lovelace
 
-> 🏯 🗻 ⛩️
+> 🏯 🗻 🍁
