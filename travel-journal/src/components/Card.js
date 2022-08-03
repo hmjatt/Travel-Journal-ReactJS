@@ -5,7 +5,11 @@ function Card(props) {
     return (
         <div className="card">
             <div className="card-image-div">
-                <img src={props.imageUrl} className={props.class} alt={props.title} />
+                <img
+                    src={props.imageUrl}
+                    className={props.class}
+                    alt={props.title}
+                />
             </div>
             <div className="card-text-div">
                 <div className="card-location">
@@ -28,9 +32,7 @@ function Card(props) {
                     <span className="end-date">{props.endDate}</span>
                 </div>
                 <p className="card-description">
-                    <span>
-					{props.description}
-                    </span>
+                    <span>{props.description}</span>
                 </p>
             </div>
         </div>

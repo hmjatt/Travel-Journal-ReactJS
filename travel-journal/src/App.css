@@ -1,9 +1,9 @@
 .App {
-  font-family: 'Inter', sans-serif;
-  max-width: 1200px;
-  width: 95vw;
-  margin: 2% auto;
-  
+	font-family: 'Inter', sans-serif;
+	max-width: 1200px;
+	width: 95vw;
+	margin: 2% auto;
+
 }
 
 /* Navbar Component */
@@ -56,7 +56,7 @@ h1 {
 	margin-right: 3em;
 }
 
-.card-image-div img  {
+.card-image-div img {
 	width: 20vh;
 	border-radius: 9px;
 	margin-bottom: 9px;
@@ -95,6 +95,7 @@ a {
 	font-weight: 700;
 	font-size: 0.85em;
 }
+
 /* Card Component */
 
 /* Footer Component */
@@ -102,7 +103,7 @@ footer {
 	text-align: center;
 	font-size: 1em;
 	color: #ebf5ff;
-	background-color: #2F4858;
+	background-color: #1c5274;
 	border-radius: 10px;
 	margin-top: 1em;
 	padding: 0.5em;
@@ -122,6 +123,7 @@ footer a {
 footer a:hover {
 	filter: opacity(40%);
 }
+
 /* Footer Component */
 
 @media only screen and (max-width: 600px) {
