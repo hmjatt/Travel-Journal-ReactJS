@@ -34,14 +34,14 @@ const data = [
     },
 	{
 		id: 4,
-        title: "Mount Fuji",
-		class: "opera-house",
-        location: "Japan",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-        startDate: "12 Jan, 2021",
-        endDate: "24 Jan, 2021",
-        description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-        imageUrl: require("./images/mt-fuji.jpg")
+        title: "Vermilion Lakes",
+		class: "banff",
+        location: "Canada",
+        googleMapsUrl: "https://www.google.com/maps/place/Vermilion+Lakes+Viewpoint/@51.182312,-115.6054652,17z/data=!3m1!4b1!4m5!3m4!1s0x5370ca63cee38e21:0xe1de4add20b407c1!8m2!3d51.1823087!4d-115.6032712",
+        startDate: "8 Jun, 2019",
+        endDate: "19 Jun, 2019",
+        description: "A network of lush marshlands and expansive lakes in the Bow Valley, the Vermilion Lakes are a popular spot for visitors and locals seeking easy solace from the lively town of Banff.",
+        imageUrl: require("./images/banff.jpg")
     },
 	{
 		id: 5,
