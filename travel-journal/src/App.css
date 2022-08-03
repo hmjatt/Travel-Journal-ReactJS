@@ -68,6 +68,12 @@ h1 {
 	justify-content: center;
 }
 
+.card-location {
+	display: flex;
+	align-items: center;
+	max-height: 1em;
+}
+
 .card-pin {
 	height: 0.8em;
 }
@@ -77,6 +83,10 @@ h1 {
 	letter-spacing: 0.2em;
 	padding-left: 0.4em;
 	padding-right: 1em;
+}
+
+.grey {
+	text-align: center;
 }
 
 a {

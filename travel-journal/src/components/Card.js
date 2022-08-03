@@ -15,7 +15,7 @@ function Card(props) {
                 <div className="card-location">
                     <img src={pinPic} className="card-pin" alt="pin-icon" />
                     <span className="location">{props.location}</span>
-                    <span className="grey">
+                    <p className="grey">
                         <a
                             href={props.googleMapsUrl}
                             target="_blank"
@@ -23,7 +23,7 @@ function Card(props) {
                         >
                             View on Google Maps Link
                         </a>
-                    </span>
+                    </p>
                 </div>
                 <h2 className="card-title">{props.title}</h2>
                 <div className="card-date">
