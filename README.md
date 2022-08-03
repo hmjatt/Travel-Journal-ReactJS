@@ -3,10 +3,10 @@ Creating a **`Travel Journal`** using `ReactJS`
 
 
 
-<!-- ## [Live Preview](https://hmjatt.github.io/Travel-Journal-ReactJS/) -->
+## [Live Preview](https://hmjatt.github.io/Travel-Journal-ReactJS/)
 
-<!-- ![This is an image]()
-![This is an image]() -->
+![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/Travel-Journal/mobile-preview.jpg)
+![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/Travel-Journal/desktop-preview.jpg)
 
 <hr>
 
@@ -125,7 +125,7 @@ at App
 - [x] Create total of 7 unique **`Card`** components(*journal entries*) inside **`.cards-list`** by updating `data.js`.
 - [x] Delete **unnecessary** files from directory and format code with `Prettier`.
 - [x] Test for _Responsiveness_ and make changes if need be ✅.
-- [ ] Add links to `Live Preview` and _screenshots_.
+- [x] Add links to `Live Preview` and _screenshots_ ✅.
 
 ### 12. Deploy 📤
 
