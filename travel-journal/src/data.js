@@ -45,14 +45,14 @@ const data = [
     },
 	{
 		id: 5,
-        title: "Mount Fuji",
-		class: "opera-house",
-        location: "Japan",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-        startDate: "12 Jan, 2021",
-        endDate: "24 Jan, 2021",
-        description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-        imageUrl: require("./images/mt-fuji.jpg")
+        title: "Parliament Hill",
+		class: "parliament",
+        location: "Canada",
+        googleMapsUrl: "https://www.google.com/maps/place/Parliament+Hill/@45.4235937,-75.700929,17z/data=!3m1!4b1!4m5!3m4!1s0x4cce04ff4fe494ef:0x26bb54f60c29f6e!8m2!3d45.4235937!4d-75.700929",
+        startDate: "4 Mar, 2023",
+        endDate: "20 Mar, 2023",
+        description: "Parliament Hill, is an area of Crown land on the southern banks of the Ottawa River in downtown Ottawa, Ontario, Canada. Its Gothic revival suite of buildings, and their architectural elements of national symbolic importance, is the home of the Parliament of Canada.",
+        imageUrl: require("./images/parliament.jpg")
     },
 	{
 		id: 6,
