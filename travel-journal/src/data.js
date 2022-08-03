@@ -1,14 +1,14 @@
 const data = [
     {
 		id: 1,
-        title: "Mount Fuji",
-		class: "opera-house",
-        location: "Japan",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        title: "Vancouver Aquarium",
+		class: "vancouver-aquarium",
+        location: "Canada",
+        googleMapsUrl: "https://www.google.com/maps/place/Vancouver+Aquarium/@49.3004911,-123.1330714,17z/data=!3m1!4b1!4m5!3m4!1s0x5486718d7aca6ca7:0x5f251627980ee358!8m2!3d49.3004876!4d-123.1308774",
         startDate: "12 Jan, 2014",
         endDate: "24 Jan, 2014",
-        description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-        imageUrl: require("./images/mt-fuji.jpg")
+        description: "The Vancouver Aquarium is a public aquarium located in Stanley Park in Vancouver, British Columbia, Canada. Aquarium is a centre for marine research, ocean literacy education, climate activism, conservation and marine animal rehabilitation.",
+        imageUrl: require("./images/jellyfish.jpg")
     },
 	{
 		id: 2,
