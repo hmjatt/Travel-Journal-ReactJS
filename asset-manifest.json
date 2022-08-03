@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Travel-Journal-ReactJS/static/css/main.f3b6c019.css",
+    "main.js": "/Travel-Journal-ReactJS/static/js/main.fd57b3ce.js",
+    "static/js/787.39019643.chunk.js": "/Travel-Journal-ReactJS/static/js/787.39019643.chunk.js",
+    "static/media/suspension-bridge.jpg": "/Travel-Journal-ReactJS/static/media/suspension-bridge.efcecf2a6bf821607385.jpg",
+    "static/media/parliament.jpg": "/Travel-Journal-ReactJS/static/media/parliament.aea1c419eade61a40217.jpg",
+    "static/media/mt-fuji.jpg": "/Travel-Journal-ReactJS/static/media/mt-fuji.b762b2fe4a3ff7584a0b.jpg",
+    "static/media/jasper.jpg": "/Travel-Journal-ReactJS/static/media/jasper.4c6f61a850c9d3aa96ae.jpg",
+    "static/media/jellyfish.jpg": "/Travel-Journal-ReactJS/static/media/jellyfish.24fdd715175fb95ca0ba.jpg",
+    "static/media/opera-house.jpg": "/Travel-Journal-ReactJS/static/media/opera-house.8ccf97833b8426e4d364.jpg",
+    "static/media/banff.jpg": "/Travel-Journal-ReactJS/static/media/banff.1a9298f2d26824d63483.jpg",
+    "index.html": "/Travel-Journal-ReactJS/index.html",
+    "static/media/pin.svg": "/Travel-Journal-ReactJS/static/media/pin.1f226562855444fb8b7486883ccc7a0c.svg",
+    "main.f3b6c019.css.map": "/Travel-Journal-ReactJS/static/css/main.f3b6c019.css.map",
+    "main.fd57b3ce.js.map": "/Travel-Journal-ReactJS/static/js/main.fd57b3ce.js.map",
+    "787.39019643.chunk.js.map": "/Travel-Journal-ReactJS/static/js/787.39019643.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b6c019.css",
+    "static/js/main.fd57b3ce.js"
+  ]
+}
