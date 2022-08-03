@@ -129,7 +129,7 @@ at App
 
 ### 12. Deploy 📤
 
-<!-- - [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/#github-pages)) to push project to **GitHub Pages** 🎆🎆🎆 -->
+- [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/#github-pages)) to push project to **GitHub Pages** 🎆🎆🎆
 
 <hr>
 
