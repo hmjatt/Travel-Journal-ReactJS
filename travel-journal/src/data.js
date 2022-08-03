@@ -57,11 +57,11 @@ const data = [
 	{
 		id: 6,
         title: "Mount Fuji",
-		class: "opera-house",
+		class: "mt-fuji",
         location: "Japan",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-        startDate: "12 Jan, 2021",
-        endDate: "24 Jan, 2021",
+        googleMapsUrl: "https://www.google.com/maps/place/Mount+Fuji/@35.3615353,138.7044974,13.74z/data=!4m5!3m4!1s0x6019629a42fdc899:0xa6a1fcc916f3a4df!8m2!3d35.3606255!4d138.7273634",
+        startDate: "12 Jan, 2024",
+        endDate: "24 Jan, 2024",
         description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
         imageUrl: require("./images/mt-fuji.jpg")
     },
