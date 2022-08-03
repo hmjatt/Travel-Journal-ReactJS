@@ -23,14 +23,14 @@ const data = [
     },
 	{
 		id: 3,
-        title: "Mount Fuji",
-		class: "opera-house",
-        location: "Japan",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-        startDate: "12 Jan, 2021",
-        endDate: "24 Jan, 2021",
-        description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-        imageUrl: require("./images/mt-fuji.jpg")
+        title: "Capilano Suspension Bridge",
+		class: "suspension-bridge",
+        location: "Canada",
+        googleMapsUrl: "https://www.google.com/maps/place/Capilano+Suspension+Bridge+Park/@49.3428644,-123.1171184,17z/data=!3m1!4b1!4m5!3m4!1s0x54866fd200dcde49:0xf350b3ec85130f5e!8m2!3d49.3428609!4d-123.1149244",
+        startDate: "22 May, 2018",
+        endDate: "8 Jul, 2018",
+        description: "Capilano Suspension Bridge Park is one of the most popular tourist attractions in Vancouver. The Capilano Suspension bridge is 140 metres long and 70 metres above the river. ",
+        imageUrl: require("./images/suspension-bridge.jpg")
     },
 	{
 		id: 4,
