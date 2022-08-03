@@ -2,6 +2,7 @@ const data = [
     {
 		id: 1,
         title: "Mount Fuji",
+		class: "opera-house",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "12 Jan, 2021",
@@ -12,6 +13,7 @@ const data = [
 	{
 		id: 2,
         title: "Mount Fuji",
+		class: "opera-house",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "12 Jan, 2021",
@@ -22,6 +24,7 @@ const data = [
 	{
 		id: 3,
         title: "Mount Fuji",
+		class: "opera-house",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "12 Jan, 2021",
@@ -32,6 +35,7 @@ const data = [
 	{
 		id: 4,
         title: "Mount Fuji",
+		class: "opera-house",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "12 Jan, 2021",
@@ -42,6 +46,7 @@ const data = [
 	{
 		id: 5,
         title: "Mount Fuji",
+		class: "opera-house",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "12 Jan, 2021",
@@ -52,6 +57,7 @@ const data = [
 	{
 		id: 6,
         title: "Mount Fuji",
+		class: "opera-house",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "12 Jan, 2021",
@@ -61,6 +67,7 @@ const data = [
     },
 	{
 		id: 7,
+		class: "opera-house",
         title: "Sydney Opera House",
         location: "Australia",
         googleMapsUrl: "https://www.google.com/maps/place/Sydney+Opera+House/@-33.8567844,151.213108,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12ae665e892fdd:0x3133f8d75a1ac251!8m2!3d-33.8567844!4d151.2152967",

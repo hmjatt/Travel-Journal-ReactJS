@@ -56,7 +56,7 @@ h1 {
 	margin-right: 3em;
 }
 
-.card-image {
+.card-image-div img  {
 	width: 20vh;
 	border-radius: 9px;
 	margin-bottom: 9px;
@@ -137,7 +137,7 @@ footer a:hover {
 		margin-bottom: 1em;
 	}
 
-	.card-image {
+	.card-image-div img {
 		width: 55vw;
 	}
 
