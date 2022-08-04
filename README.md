@@ -29,6 +29,9 @@ A **`Travel Journal`**, created to practice `ReactJS`. It includes *descriptions
     - Custom Components
     - create-react-app
     - Figma
+    - React Props
+    - Creating Components from an Array
+    - Mapping Components
     - github-pages
 
 <hr>
